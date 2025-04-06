@@ -65,5 +65,5 @@ if __name__ == "__main__":
         X, y, test_size=0.2, random_state=42
     )
 
-    print("🚀 Training model...")
+    print(" Training model...")
     train_hybrid_model(X_train, y_train, X_test, y_test)

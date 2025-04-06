@@ -6,3 +6,5 @@ __pycache__/
 *.pkl
 model/
 data/
+model/*
+!model/train_model.py
