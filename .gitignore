@@ -4,7 +4,6 @@ venv/
 __pycache__/
 *.pyc
 *.pkl
-model/
 data/
 model/*
 !model/train_model.py
